@@ -8,4 +8,4 @@ User left controls:
 User right controls:    
 `↑←↓→` - moving   
 `CTRL` - shoot    
-`SHIFT' - explode   
+`SHIFT` - explode   
